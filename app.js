@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 
 // const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://jaswanth459:Jadhu9490865776@cluster0-say9x.mongodb.net/samplegql_db?retryWrites=true&w=majority";
+const uri = "This needs to be filled";
 // const client = new MongoClient(uri, { useNewUrlParser: true }, { useUnifiedTopology: true });
 // client.connect(err => {
 //     console.log('err ', err);
